@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheezu900" alt="sheezu900" /></a> </p> <br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sheezu900](GitHub.com/sheezu900)
+- 👨‍💻 All of my projects are available at [Github.com/sheezu900](https://github.com/sheezu900)
 
 - 📫 How to reach me **shahzamanlive2@gmail.com**
 
