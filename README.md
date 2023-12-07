@@ -2,6 +2,14 @@
 <h1 align="center">Hello World!👋, I'm Shah Zaman</h1>
 <h3 align="center">A passionate Full-Stack developer and UI/UX designer from Pakistan </h3>
 
+## Skills
+
+-   <b>Frontend</b> : React, Next.js, Angular
+-   <b>Backend</b> : Node.js, Nest js, Prisma
+-   <b>Libraries</b> : Material UI, Ant Design, Tailwind CSS
+-   <b>Database</b> : MySQL, MongoDB, PostgreSQL
+-   <b>Languages</b> : HTML5, CSS3, JavaScript, TypeScript
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaman900&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaman900" /> </p> <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaman900" alt="shahzaman900" /></a> </p> <br>
